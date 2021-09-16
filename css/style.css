@@ -1,0 +1,21 @@
+@font-face {
+    font-family: robo;
+    src: url(../fonts/RobotoCondensed-Regular.ttf);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: robo;
+}
+header{
+    height: 100vh;
+    background-image:
+    linear-gradient(rgba(0, 0, 0,.3),rgba(0, 0, 0, .3)),
+    url(../images/back1.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+
